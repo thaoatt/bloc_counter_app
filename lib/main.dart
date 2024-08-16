@@ -7,7 +7,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 void main() {
   runApp(const MyApp());
 }
-//
+// hjabsflkalgfjqf fbalf
 // class MyApp extends StatelessWidget {
 //   Stream<int> aStreamFunction() async* {
 //     // async* = asynchronous, hàm này có thể gọi 1 lần nhg trả về nhiều giá trị (yield)
